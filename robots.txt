@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wykxsw.com/sitemap.xml
